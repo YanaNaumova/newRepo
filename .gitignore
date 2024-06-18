@@ -1,4 +1,9 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
+# Ignore all log files
+*.log
+
+# Ignore all node_modules directories
+node_modules/
 
 # compiled output
 /dist
